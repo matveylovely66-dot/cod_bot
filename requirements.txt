@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+qrcode[pil]
+python-barcode
+pillow
+pyzbar
